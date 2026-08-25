@@ -1,5 +1,8 @@
 body {
-  color: #2b2620;
-  background-color: #1648d2e1;
+  color: #662257;
+  background-color: #289fcee1;
   font-family: 'Times New Roman', Times, serif;
 }
+
+.subtitle { color: rgba(31, 202, 77, 0.654); }
+#page-title { font-size: 48px; color: rgba(218, 85, 215, 0.836); }
