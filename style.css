@@ -1,6 +1,6 @@
 body {
   color: #662257;
-  background-color: #289fcee1;
+  background-color: #38a681e1;
   font-family: 'Times New Roman', Times, serif;
 }
 
@@ -8,8 +8,8 @@ body {
 #page-title { font-size: 48px; color: rgba(218, 85, 215, 0.836); }
 
 .subtitle { 
-  color: red;
-  border: 2px solid black;
+  color: rgb(129, 158, 47);
+  border: 2px solid rgba(116, 160, 197, 0.399);
   padding: 20px; 
   margin: auto;
   width: 300px;
@@ -18,8 +18,8 @@ body {
 
 
 
-#page-title { font-size: 48px; color: navy; }
+#page-title { font-size: 48px; color: rgb(123, 127, 10); }
 #my-name {
-  color: orange;
+  color: rgb(181, 132, 41);
   font-size: 80px;
 }
