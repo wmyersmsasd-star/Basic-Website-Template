@@ -7,6 +7,14 @@ body {
 .subtitle { color: rgba(31, 202, 77, 0.654); }
 #page-title { font-size: 48px; color: rgba(218, 85, 215, 0.836); }
 
+.subtitle { 
+  color: red;
+  border: 2px solid black;
+  padding: 20px; 
+  margin: auto;
+  width: 300px;
+}
+
 
 
 
