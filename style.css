@@ -8,8 +8,8 @@ body {
 #page-title { font-size: 48px; color: rgba(199, 41, 196, 0.836); }
 
 .subtitle { 
-  color: rgb(8, 52, 123);
-  border: 2px solid rgba(116, 160, 197, 0.399);
+  color: rgb(32, 15, 218);
+  border: 2px solid rgba(114, 21, 207, 0.399);
   padding: 20px; 
   margin: auto;
   width: 300px;
@@ -18,7 +18,7 @@ body {
 
 
 
-#page-title { font-size: 48px; color: rgb(123, 127, 10); }
+#page-title { font-size: 48px; color: rgb(199, 205, 10); }
 #my-name {
   color: rgb(84, 211, 21);
   font-size: 80px;
