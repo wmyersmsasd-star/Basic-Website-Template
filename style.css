@@ -34,7 +34,7 @@ body {
   background-color: #04120c;
   font-family: 'Times New Roman', Times, serif;
   width: 700px;
-  margin: 0 auto;
+  margin: 4 auto;
   padding: 20px;
 }
 
@@ -59,7 +59,7 @@ body {
 /* Option A - center the box itself */
 #photo-caption {
   width: 400px;
-  margin: 0 auto;
+  margin: 3 auto;
 }
  
 /* Option B - center the text inside the box */
