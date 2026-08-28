@@ -28,3 +28,13 @@ body {
   border: 2px solid rgb(215, 9, 9);
   padding: 20px;
 }
+
+body {
+  color: #2B2620;
+  background-color: #26f29d;
+  font-family: 'Times New Roman', Times, serif;
+  width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
