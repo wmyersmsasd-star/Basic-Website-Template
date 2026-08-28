@@ -1,14 +1,14 @@
 body {
-  color: #662257;
-  background-color: #38a681e1;
+  color: #bb0a94;
+  background-color: #0eba81e1;
   font-family: 'Times New Roman', Times, serif;
 }
 
-.subtitle { color: rgba(31, 202, 77, 0.654); }
-#page-title { font-size: 48px; color: rgba(218, 85, 215, 0.836); }
+.subtitle { color: rgba(10, 182, 56, 0.654); }
+#page-title { font-size: 48px; color: rgba(199, 41, 196, 0.836); }
 
 .subtitle { 
-  color: rgb(129, 158, 47);
+  color: rgb(8, 52, 123);
   border: 2px solid rgba(116, 160, 197, 0.399);
   padding: 20px; 
   margin: auto;
@@ -20,7 +20,7 @@ body {
 
 #page-title { font-size: 48px; color: rgb(123, 127, 10); }
 #my-name {
-  color: rgb(181, 132, 41);
+  color: rgb(84, 211, 21);
   font-size: 80px;
 }
 
@@ -30,8 +30,8 @@ body {
 }
 
 body {
-  color: #2B2620;
-  background-color: #26f29d;
+  color: #130f92;
+  background-color: #04120c;
   font-family: 'Times New Roman', Times, serif;
   width: 700px;
   margin: 0 auto;
@@ -52,7 +52,7 @@ body {
  
 #my-table {
   padding: 10px;
-  border: 2px solid #8A6D3B;
+  border: 2px solid #452782;
   margin-bottom: 40px;
 }
 
