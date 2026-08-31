@@ -11,9 +11,15 @@
   function changeColor() {
     var myButton = document.getElementById("colorButton");
     myButton.style.backgroundColor = "orange";
-  }
-</script>
+  }<button id="bgButton" onclick="changeBackground()">
+  Change the background
+</button>
+ 
+function changeBackground() {
+  document.body.style.backgroundColor = "lightblue";
+}
 
+</script>
 </button>
 </body>
 </html>
