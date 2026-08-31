@@ -7,7 +7,13 @@
   <h1>Welcome to my portfolio!</h1>
   <a href="example copy.html">Go to my example page</a></p>
   <button id="colorButton" onclick="changeColor()">
-  Click me
+  Click me<script>
+  function changeColor() {
+    var myButton = document.getElementById("colorButton");
+    myButton.style.backgroundColor = "orange";
+  }
+</script>
+
 </button>
 </body>
 </html>
